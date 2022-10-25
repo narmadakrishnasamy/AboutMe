@@ -14,21 +14,18 @@ Link to my Project repository
 # Technology and Skills
 
 * [![Python][Python.js]][Python-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![R][R.js]][R-url]
+* [![Jupyter][Jupyter.js]][jupyter-url]
+* [![Azure][Azure.io]][Azure-url]
+* [![MySql][Sql-js]][Sql-url]
 
 [Python.js]: 	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
+[R.js]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[R-url]: https://www.r-project.org/about.html
+[jupyter-js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[jupyter-url]: https://jupyter.org
+[Azure.io]: 	https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+[Azure-url]: https://azure.microsoft.com/en-us/
+[Sql-js]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[Sql-url]: https://www.mysql.com/

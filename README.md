@@ -15,7 +15,7 @@ Link to my Project repository
 
 * [![Python][Python.js]][Python-url]
 * [![R][R.js]][R-url]
-* [![Jupyter][Jupyter.js]][jupyter-url]
+* [![Jupyter][Jupyter.js]][Jupyter-url]
 * [![Azure][Azure.io]][Azure-url]
 * [![MySql][Sql-js]][Sql-url]
 
@@ -23,8 +23,8 @@ Link to my Project repository
 [Python-url]: https://www.python.org/
 [R.js]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [R-url]: https://www.r-project.org/about.html
-[jupyter-js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[jupyter-url]: https://jupyter.org
+[Jupyter.js]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org
 [Azure.io]: 	https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
 [Azure-url]: https://azure.microsoft.com/en-us/
 [Sql-js]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
